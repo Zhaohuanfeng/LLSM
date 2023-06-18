@@ -1,2 +1,2 @@
-# LLSM
+# DynaInsRemover
 A Lightweight 3D LiDAR Static Mapping Framework for Dynamic Environments
